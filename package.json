@@ -1,0 +1,25 @@
+{
+  "name": "cypress-excercise",
+  "version": "1.0.0",
+  "description": "Herramienta de automatizacion play",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaFlor/cypress-excercise.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Diana Flor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DianaFlor/cypress-excercise/issues"
+  },
+  "homepage": "https://github.com/DianaFlor/cypress-excercise#readme"
+}
